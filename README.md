@@ -2,7 +2,7 @@
 Sou desenvolvedor de software com foco em backend
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/barbara-gabriele-da-rocha-8b19a4289/](https://www.linkedin.com/in/jarde-felicio-5b0906209/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jarde-felicio-5b0906209))
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://github.com/JardeFelicio)
 
 ## Habilidades
